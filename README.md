@@ -1,2 +1,25 @@
-# a035b1a1-newsletter-email-publishing
-Stop starting from a blank document every single time. Start professional results from day one.  Ready to use immediately — open, fill in your details, done. Professional formatting tested across different screen sizes and printers.  ## What's Included  - Newsletter &amp; Email Publishing Sow And Scope Document Generator — fully configured and ready to
+# Newsletter & Email Publishing SOW and Scope Document Generator
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/eVqfZhbHhaQAe008nGcZy2A)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVqfZhbHhaQAe008nGcZy2A)
+
